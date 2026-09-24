@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- getCacheDir()/images/ : camera photos taken for email attachments -->
+    <cache-path name="images" path="images/" />
+</paths>

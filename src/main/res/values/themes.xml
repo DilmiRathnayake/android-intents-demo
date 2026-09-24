@@ -1,0 +1,5 @@
+<resources>
+    <!-- Material 3 with dynamic colour (Android 12+ picks colours from the wallpaper;
+         older devices fall back to the Material baseline palette). -->
+    <style name="Theme.IntentsDemo" parent="Theme.Material3.DynamicColors.DayNight.NoActionBar" />
+</resources>
